@@ -1,0 +1,21 @@
+galaxy_info:
+  role_name: newpublishtestrole
+  author: AStudio
+  description: Testing publishing a role again
+  company: AStudio2
+  issue_tracker_url: '-'
+  license: MIT
+  min_ansible_version: '1.2'
+  min_ansible_container_version: '1.4'
+  github_branch: master
+  galaxy_tags:
+    - check1
+    - check2
+  platforms:
+    - name: macOS
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
+dependencies: []
